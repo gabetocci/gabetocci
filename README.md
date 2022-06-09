@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... yaml
-- 🌱 I’m currently learning ... cloud native
+- 🌱 I’m currently learning ... cloud native tech
 - 👯 I’m looking to collaborate on ... collaboration
 - 🤔 I’m looking for help with ... time management
 - 💬 Ask me about ... my kids
