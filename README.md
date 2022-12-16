@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-You’ve stumbled upon my personal github account. If you want to find more information about me you can check out my personal website: https://www.gabrieltocci.com
+You’ve stumbled upon my personal github account. 
+
+If you want to find more information about me you can check out my personal website: https://www.gabrieltocci.com
 
 Here is some info about me:
 
