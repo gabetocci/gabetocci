@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**gabetocci/gabetocci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You’ve stumbled upon my personal github account. If you want to find more information about me you can check out my personal website: https://www.gabrieltocci.com
 
-Here are some ideas to get you started:
+Here is some info about me:
 
 - 🔭 I’m currently working on ... platform engineering
 - 🌱 I’m currently learning ... cloud native technologies
