@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-You’ve stumbled upon my personal github account. 
+You’ve stumbled upon my personal github account.  
+To learn more about me check out my personal website: https://www.gabrieltocci.com
 
-My personal website: https://www.gabrieltocci.com
-
-I rarely have time to work on open source projects. Most of the public repos here are old personal/hobby projects.
+My daily work is generally on proprietary projects in private repos.  
+Most of the public repos here are old personal/hobby projects.
 
 🛠 Tools I use everyday: 
 - linux
